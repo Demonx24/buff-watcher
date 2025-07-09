@@ -1,3 +1,4 @@
+```csharp
 buff-watcher/
 ├── cmd/
 │   ├── search.go        # 主动查询饰品信息
@@ -15,3 +16,6 @@ buff-watcher/
 ├── utils/
 │   └── http.go          # 通用请求封装
 ├── main.go              # 启动服务入口
+
+```
+
